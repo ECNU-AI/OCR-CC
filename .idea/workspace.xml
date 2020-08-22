@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d3f07e6-7b18-4e49-a254-d9c5a5a7fcce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="845215cf-69ca-4822-b567-79d34ca8d7bf" />
+  <component name="ProjectId" id="1gRnCU8p7UJXOowUiXkj26Fiu1J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="OCR-CC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d3f07e6-7b18-4e49-a254-d9c5a5a7fcce" name="Default Changelist" comment="" />
+      <created>1598086145814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598086145814</updated>
+      <workItem from="1598086147445" duration="85000" />
+      <workItem from="1598086289722" duration="320000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="166" width="1071" height="796" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598086526156">
+      <screen x="0" y="23" width="1920" height="962" />
+    </state>
+    <state x="424" y="166" width="1071" height="796" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.962/1920.168.1440.877@0.23.1920.962" timestamp="1598086526156" />
+    <state x="678" y="313" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598086550083">
+      <screen x="0" y="23" width="1920" height="962" />
+    </state>
+    <state x="678" y="313" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.962/1920.168.1440.877@0.23.1920.962" timestamp="1598086550083" />
+    <state x="814" y="289" width="553" height="525" key="EnvironmentVariablesDialog" timestamp="1598086449231">
+      <screen x="0" y="23" width="1920" height="962" />
+    </state>
+    <state x="814" y="289" width="553" height="525" key="EnvironmentVariablesDialog/0.23.1920.962/1920.168.1440.877@0.23.1920.962" timestamp="1598086449231" />
+    <state x="461" y="143" key="SettingsEditor" timestamp="1598086184555">
+      <screen x="0" y="23" width="1920" height="962" />
+    </state>
+    <state x="461" y="143" key="SettingsEditor/0.23.1920.962/1920.168.1440.877@0.23.1920.962" timestamp="1598086184555" />
+  </component>
+</project>

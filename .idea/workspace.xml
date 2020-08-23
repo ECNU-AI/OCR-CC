@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f07e6-7b18-4e49-a254-d9c5a5a7fcce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/network_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/Arial Unicode.ttf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +29,39 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/fonts" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/fonts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.chineseCode">
+    <configuration name="chineseCode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OCR-CC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/chineseCode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="network_1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="OCR-CC" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,6 +84,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.chineseCode" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -70,7 +100,7 @@
       <updated>1598086145814</updated>
       <workItem from="1598086147445" duration="85000" />
       <workItem from="1598086289722" duration="3738000" />
-      <workItem from="1598174690984" duration="1048000" />
+      <workItem from="1598174690984" duration="1633000" />
     </task>
     <servers />
   </component>
@@ -78,9 +108,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="424" y="166" width="1071" height="796" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598086526156">
-      <screen x="0" y="23" width="1920" height="962" />
+    <state x="424" y="165" width="1071" height="796" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598175812745">
+      <screen x="0" y="23" width="1920" height="958" />
     </state>
+    <state x="424" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.958/1920.168.1440.877@0.23.1920.958" timestamp="1598175812745" />
     <state x="424" y="166" width="1071" height="796" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.962/1920.168.1440.877@0.23.1920.962" timestamp="1598086526156" />
     <state x="678" y="313" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598086550083">
       <screen x="0" y="23" width="1920" height="962" />
@@ -90,24 +121,28 @@
       <screen x="0" y="23" width="1920" height="962" />
     </state>
     <state x="814" y="289" width="553" height="525" key="EnvironmentVariablesDialog/0.23.1920.962/1920.168.1440.877@0.23.1920.962" timestamp="1598086449231" />
-    <state width="1878" height="370" key="GridCell.Tab.0.bottom" timestamp="1598170984743">
-      <screen x="1920" y="168" width="1440" height="877" />
+    <state width="1398" height="434" key="GridCell.Tab.0.bottom" timestamp="1598176393366">
+      <screen x="0" y="23" width="1920" height="958" />
     </state>
+    <state width="1398" height="434" key="GridCell.Tab.0.bottom/0.23.1920.958/1920.168.1440.877@0.23.1920.958" timestamp="1598176393366" />
     <state width="1878" height="370" key="GridCell.Tab.0.bottom/0.23.1920.958/1920.168.1440.877@1920.168.1440.877" timestamp="1598170984743" />
     <state width="1878" height="370" key="GridCell.Tab.0.bottom/0.23.1920.962/1920.168.1440.877@0.23.1920.962" timestamp="1598088464652" />
-    <state width="1878" height="370" key="GridCell.Tab.0.center" timestamp="1598170984742">
-      <screen x="1920" y="168" width="1440" height="877" />
+    <state width="1398" height="434" key="GridCell.Tab.0.center" timestamp="1598176393365">
+      <screen x="0" y="23" width="1920" height="958" />
     </state>
+    <state width="1398" height="434" key="GridCell.Tab.0.center/0.23.1920.958/1920.168.1440.877@0.23.1920.958" timestamp="1598176393365" />
     <state width="1878" height="370" key="GridCell.Tab.0.center/0.23.1920.958/1920.168.1440.877@1920.168.1440.877" timestamp="1598170984742" />
     <state width="1878" height="370" key="GridCell.Tab.0.center/0.23.1920.962/1920.168.1440.877@0.23.1920.962" timestamp="1598088464651" />
-    <state width="1878" height="370" key="GridCell.Tab.0.left" timestamp="1598170984741">
-      <screen x="1920" y="168" width="1440" height="877" />
+    <state width="1398" height="434" key="GridCell.Tab.0.left" timestamp="1598176393365">
+      <screen x="0" y="23" width="1920" height="958" />
     </state>
+    <state width="1398" height="434" key="GridCell.Tab.0.left/0.23.1920.958/1920.168.1440.877@0.23.1920.958" timestamp="1598176393365" />
     <state width="1878" height="370" key="GridCell.Tab.0.left/0.23.1920.958/1920.168.1440.877@1920.168.1440.877" timestamp="1598170984741" />
     <state width="1878" height="370" key="GridCell.Tab.0.left/0.23.1920.962/1920.168.1440.877@0.23.1920.962" timestamp="1598088464650" />
-    <state width="1878" height="370" key="GridCell.Tab.0.right" timestamp="1598170984743">
-      <screen x="1920" y="168" width="1440" height="877" />
+    <state width="1398" height="434" key="GridCell.Tab.0.right" timestamp="1598176393366">
+      <screen x="0" y="23" width="1920" height="958" />
     </state>
+    <state width="1398" height="434" key="GridCell.Tab.0.right/0.23.1920.958/1920.168.1440.877@0.23.1920.958" timestamp="1598176393366" />
     <state width="1878" height="370" key="GridCell.Tab.0.right/0.23.1920.958/1920.168.1440.877@1920.168.1440.877" timestamp="1598170984743" />
     <state width="1878" height="370" key="GridCell.Tab.0.right/0.23.1920.962/1920.168.1440.877@0.23.1920.962" timestamp="1598088464652" />
     <state x="461" y="143" key="SettingsEditor" timestamp="1598086184555">
@@ -116,6 +151,7 @@
     <state x="461" y="143" key="SettingsEditor/0.23.1920.962/1920.168.1440.877@0.23.1920.962" timestamp="1598086184555" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OCR_CC$chineseCode.coverage" NAME="chineseCode Coverage Results" MODIFIED="1598176393353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/OCR_CC$main.coverage" NAME="main Coverage Results" MODIFIED="1598087333555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>

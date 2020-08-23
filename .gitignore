@@ -1,3 +1,10 @@
 venv
 
 .idea
+
+model
+
+model_step1
+model_step2
+
+*.npy

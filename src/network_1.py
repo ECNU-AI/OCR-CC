@@ -153,7 +153,8 @@ def main():
                     if ret:
                         break
 
-        model_saver.save(sess, './model/mymodel.ckpt')
+        # model_saver.save(sess, './model/mymodel.ckpt')
+        model_saver.save(sess, './model_step1/mymodel.ckpt')
 
 
 if __name__ == '__main__':

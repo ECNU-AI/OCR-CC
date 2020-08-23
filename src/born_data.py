@@ -41,7 +41,7 @@ class ImageChar():
         chinese_str = ''
         chinese_num = []
         for i in range(self.num_word):
-            temp = random.randint(0, 3499)
+            temp = random.randint(0, 10)
             chinese_str = chinese_str + self.chinese[temp]
             chinese_num.append(temp)
         return chinese_str, chinese_num
@@ -114,3 +114,27 @@ class ImageChar():
             self.draw1.text((x, y), words[i], fill=(0, 0, 0), font=self.font)
 
         return self.img1, label_list
+
+
+def prepare_data():
+        img_char = ImageChar()
+        images = []
+        labels = []
+        for i in range(50000):
+            chinese_img_PIL, label_list = img_char.rand_img_label()
+            np_img = np.asarray(chinese_img_PIL)
+            np_img = cv2.cvtColor(np_img, cv2.COLOR_BGR2GRAY)
+            ret, np_img = cv2.threshold(np_img, 127, 255, cv2.THRESH_BINARY_INV)
+            np_img = np_img / 255
+            images.append(np_img.tolist())
+            labels.append(label_list)
+            if i % 200 == 0:
+                print(i, end='\r')
+        labels = np.array(labels)
+        np.save('trainLab0.npy', labels)
+        images = np.array(images)
+        np.save('trainImg0.npy', images)
+
+if __name__ == '__main__':
+    # 训练第一个网络
+    prepare_data()

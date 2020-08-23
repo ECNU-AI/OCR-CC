@@ -215,8 +215,10 @@ def main():
     model_saver = tf.train.Saver()
     tf.add_to_collection('pre_img', pre_image)
 
-    testImg = np.load('testImg1.npy')
-    testLab = np.load('testLab1.npy')
+    # testImg = np.load('testImg1.npy')
+    # testLab = np.load('testLab1.npy')
+    testImg = np.load('trainImg0.npy')
+    testLab = np.load('trainLab0.npy')
 
     x_1, sess_1, if_is_training_1, y_loca = load_model_1()
 
@@ -242,8 +244,8 @@ def main():
 if __name__ == '__main__':
     main()
 
-# x_1 , sess_1 , if_is_training_1 ,y_loca =load_model_1()
-# x_image_1,y_label = generate_data()
-# x_image_2,y_label_2= pre_model_1(x_1 , sess_1 , if_is_training_1 ,y_loca,x_image_1,y_label)
-# np.save('trainImg2',x_image_2)
-# np.save('trainLab2',y_label_2)
+    # x_1 , sess_1 , if_is_training_1 ,y_loca =load_model_1()
+    # x_image_1,y_label = generate_data()
+    # x_image_2,y_label_2= pre_model_1(x_1 , sess_1 , if_is_training_1 ,y_loca,x_image_1,y_label)
+    # np.save('trainImg2',x_image_2)
+    # np.save('trainLab2',y_label_2)

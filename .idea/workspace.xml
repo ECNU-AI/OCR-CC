@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f07e6-7b18-4e49-a254-d9c5a5a7fcce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fonts/Arial Unicode.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/3500.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/3500.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/born_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/born_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/network_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/network_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ocr.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/network_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +43,29 @@
       <recent name="$PROJECT_DIR$/src/fonts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.chineseCode">
+  <component name="RunManager" selected="Python.network_2">
+    <configuration name="born_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OCR-CC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/born_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="chineseCode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OCR-CC" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,9 +110,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="network_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OCR-CC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/network_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.network_2" />
         <item itemvalue="Python.chineseCode" />
+        <item itemvalue="Python.born_data" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +150,7 @@
       <updated>1598086145814</updated>
       <workItem from="1598086147445" duration="85000" />
       <workItem from="1598086289722" duration="3738000" />
-      <workItem from="1598174690984" duration="1633000" />
+      <workItem from="1598174690984" duration="3464000" />
     </task>
     <servers />
   </component>
@@ -121,37 +171,48 @@
       <screen x="0" y="23" width="1920" height="962" />
     </state>
     <state x="814" y="289" width="553" height="525" key="EnvironmentVariablesDialog/0.23.1920.962/1920.168.1440.877@0.23.1920.962" timestamp="1598086449231" />
-    <state width="1398" height="434" key="GridCell.Tab.0.bottom" timestamp="1598176393366">
+    <state width="1878" height="477" key="GridCell.Tab.0.bottom" timestamp="1598178231201">
       <screen x="0" y="23" width="1920" height="958" />
     </state>
-    <state width="1398" height="434" key="GridCell.Tab.0.bottom/0.23.1920.958/1920.168.1440.877@0.23.1920.958" timestamp="1598176393366" />
+    <state width="1878" height="379" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.168.1440.800@0.23.1920.1057" timestamp="1598177258609" />
+    <state width="1878" height="477" key="GridCell.Tab.0.bottom/0.23.1920.958/1920.168.1440.877@0.23.1920.958" timestamp="1598178231201" />
     <state width="1878" height="370" key="GridCell.Tab.0.bottom/0.23.1920.958/1920.168.1440.877@1920.168.1440.877" timestamp="1598170984743" />
     <state width="1878" height="370" key="GridCell.Tab.0.bottom/0.23.1920.962/1920.168.1440.877@0.23.1920.962" timestamp="1598088464652" />
-    <state width="1398" height="434" key="GridCell.Tab.0.center" timestamp="1598176393365">
+    <state width="1878" height="477" key="GridCell.Tab.0.center" timestamp="1598178231200">
       <screen x="0" y="23" width="1920" height="958" />
     </state>
-    <state width="1398" height="434" key="GridCell.Tab.0.center/0.23.1920.958/1920.168.1440.877@0.23.1920.958" timestamp="1598176393365" />
+    <state width="1878" height="379" key="GridCell.Tab.0.center/0.23.1920.1057/1920.168.1440.800@0.23.1920.1057" timestamp="1598177258608" />
+    <state width="1878" height="477" key="GridCell.Tab.0.center/0.23.1920.958/1920.168.1440.877@0.23.1920.958" timestamp="1598178231200" />
     <state width="1878" height="370" key="GridCell.Tab.0.center/0.23.1920.958/1920.168.1440.877@1920.168.1440.877" timestamp="1598170984742" />
     <state width="1878" height="370" key="GridCell.Tab.0.center/0.23.1920.962/1920.168.1440.877@0.23.1920.962" timestamp="1598088464651" />
-    <state width="1398" height="434" key="GridCell.Tab.0.left" timestamp="1598176393365">
+    <state width="1878" height="477" key="GridCell.Tab.0.left" timestamp="1598178231199">
       <screen x="0" y="23" width="1920" height="958" />
     </state>
-    <state width="1398" height="434" key="GridCell.Tab.0.left/0.23.1920.958/1920.168.1440.877@0.23.1920.958" timestamp="1598176393365" />
+    <state width="1878" height="379" key="GridCell.Tab.0.left/0.23.1920.1057/1920.168.1440.800@0.23.1920.1057" timestamp="1598177258608" />
+    <state width="1878" height="477" key="GridCell.Tab.0.left/0.23.1920.958/1920.168.1440.877@0.23.1920.958" timestamp="1598178231199" />
     <state width="1878" height="370" key="GridCell.Tab.0.left/0.23.1920.958/1920.168.1440.877@1920.168.1440.877" timestamp="1598170984741" />
     <state width="1878" height="370" key="GridCell.Tab.0.left/0.23.1920.962/1920.168.1440.877@0.23.1920.962" timestamp="1598088464650" />
-    <state width="1398" height="434" key="GridCell.Tab.0.right" timestamp="1598176393366">
+    <state width="1878" height="477" key="GridCell.Tab.0.right" timestamp="1598178231201">
       <screen x="0" y="23" width="1920" height="958" />
     </state>
-    <state width="1398" height="434" key="GridCell.Tab.0.right/0.23.1920.958/1920.168.1440.877@0.23.1920.958" timestamp="1598176393366" />
+    <state width="1878" height="379" key="GridCell.Tab.0.right/0.23.1920.1057/1920.168.1440.800@0.23.1920.1057" timestamp="1598177258609" />
+    <state width="1878" height="477" key="GridCell.Tab.0.right/0.23.1920.958/1920.168.1440.877@0.23.1920.958" timestamp="1598178231201" />
     <state width="1878" height="370" key="GridCell.Tab.0.right/0.23.1920.958/1920.168.1440.877@1920.168.1440.877" timestamp="1598170984743" />
     <state width="1878" height="370" key="GridCell.Tab.0.right/0.23.1920.962/1920.168.1440.877@0.23.1920.962" timestamp="1598088464652" />
     <state x="461" y="143" key="SettingsEditor" timestamp="1598086184555">
       <screen x="0" y="23" width="1920" height="962" />
     </state>
     <state x="461" y="143" key="SettingsEditor/0.23.1920.962/1920.168.1440.877@0.23.1920.962" timestamp="1598086184555" />
+    <state x="658" y="134" width="802" height="735" key="find.popup" timestamp="1598177950028">
+      <screen x="0" y="23" width="1920" height="958" />
+    </state>
+    <state x="658" y="134" width="802" height="735" key="find.popup/0.23.1920.958/1920.168.1440.877@0.23.1920.958" timestamp="1598177950028" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/OCR_CC$chineseCode.coverage" NAME="chineseCode Coverage Results" MODIFIED="1598176393353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/OCR_CC$chineseCode.coverage" NAME="chineseCode Coverage Results" MODIFIED="1598177408411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/OCR_CC$ocr.coverage" NAME="network_2 Coverage Results" MODIFIED="1598178045192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/OCR_CC$network_1.coverage" NAME="network_1 Coverage Results" MODIFIED="1598178009516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/OCR_CC$born_data.coverage" NAME="born_data Coverage Results" MODIFIED="1598176926265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/OCR_CC$main.coverage" NAME="main Coverage Results" MODIFIED="1598087333555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>
